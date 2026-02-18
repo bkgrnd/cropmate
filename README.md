@@ -19,6 +19,7 @@ This thing is meant to be used while you are present at your pc, and able to see
 cropmate does _**not**_ include:
 - failsafes
 - macro check responses
+- pests stuff
 - code written by someone who knows what they are doing
 
 # REQUIRES [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
