@@ -7,7 +7,7 @@
 
 
 
-- Variable camera yaw and pitch (for them cane farms)
+- Variable camera yaw and pitch
 - Customisable movement keys
 - Made by a total dumbass (not really a feature but i ran out of ideas)
 <img width="320" height="54" alt="image" src="https://github.com/user-attachments/assets/a8a93e87-2f42-4fc9-b1e2-2ffeea4046f6" />
