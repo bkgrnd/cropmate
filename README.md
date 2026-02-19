@@ -11,7 +11,9 @@
 - Macros for pretty much every crop you could wish for
 - Made by a total dumbass (not really a feature but i ran out of ideas)
 
-TODO:  
+<img width="320" height="54" alt="image" src="https://github.com/user-attachments/assets/dc958460-6e17-47ef-99ac-ac9e5344e1ce" />
+
+
 rewarp stuff  
 gui to select macro modes  
 wart macro  
