@@ -29,7 +29,7 @@ wheat macro
 
 
 
-This thing is meant to be used while you are present at your pc, and able to see the screen JIC you get macro checked, so instead of pressing 2 keys you can press zero and watch youtube or play something else.  
+This thing is meant to be used while you are present at your pc, and able to see the screen JIC you get macro checked.
 
 cropmate does _**not**_ include:
 - failsafes
