@@ -2,7 +2,7 @@
 
 
 
-# Very bare-bones Quality Of Life/ Utility mod for Hypixel Skyblock
+# Very bare-bones Quality Of Life Farming mod for Hypixel Skyblock
 <img width="320" height="54" alt="image" src="https://github.com/user-attachments/assets/5fcfa25c-a8f8-44ff-8bfe-b5cee7eb846a" />
 
 
@@ -20,12 +20,12 @@ cropmate does _**not**_ include:
 - failsafes
 - macro check responses
 - pests stuff
-- code written by someone who knows what they are doing
+- code written by someone with an actual functioning braincell
 
-# REQUIRES [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
-
-
+# REQUIRES [Minescript](https://minescript.net/)
 
 
+
+I am not responsible for you getting banned for a year and getting wiped btw, **_use at your own risk_ **
+**You CAN and probably WILL get banned if you go AFK and get macro checked.**
 This project is in no way afilliated with Microsoft, Mojang or Hypixel.  
-****use at your own risk, you CAN and probably WILL get banned if you go AFK and get macro checked.**
