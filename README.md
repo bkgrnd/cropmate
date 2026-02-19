@@ -12,12 +12,12 @@
 - Made by a total dumbass (not really a feature but i ran out of ideas)
 
 TODO:
-rewarp
-gui to select macro modes
-wart macro
-carrot macro
-potato macro
-wheat macro
+rewarp  
+gui to select macro modes  
+wart macro  
+carrot macro  
+potato macro  
+wheat macro  
 ~~rose/sunflower/cane macro~~
 
 
