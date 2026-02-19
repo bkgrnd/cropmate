@@ -11,8 +11,8 @@
 - Macros for pretty much every crop you could wish for
 - Made by a total dumbass (not really a feature but i ran out of ideas)
 
-TODO:
-rewarp  
+TODO:  
+rewarp stuff  
 gui to select macro modes  
 wart macro  
 carrot macro  
