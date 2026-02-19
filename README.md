@@ -7,9 +7,22 @@
 
 
 
-- Variable camera yaw and pitch
-- Customisable movement keys
+- Variable camera yaw and pitch (if you dont have a squeaky mousemat)
+- Macros for pretty much every crop you could wish for
 - Made by a total dumbass (not really a feature but i ran out of ideas)
+
+TODO:
+rewarp
+gui to select macro modes
+wart macro
+carrot macro
+potato macro
+wheat macro
+~~rose/sunflower/cane macro~~
+
+
+
+
 <img width="320" height="54" alt="image" src="https://github.com/user-attachments/assets/a8a93e87-2f42-4fc9-b1e2-2ffeea4046f6" />
 
 
@@ -21,6 +34,8 @@ cropmate does _**not**_ include:
 - macro check responses
 - pests stuff
 - code written by someone with an actual functioning braincell
+  
+ALSO, some of the stuff here is blatantly vibecoded and WILL be rewritten once i get the macro to a functional state.
 
 # REQUIRES [Minescript](https://minescript.net/)
 
