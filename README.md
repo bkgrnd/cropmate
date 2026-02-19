@@ -43,6 +43,7 @@ ALSO, some of the stuff here is blatantly vibecoded and WILL be rewritten once i
 
 
 
-I am not responsible for you getting banned for a year and getting wiped btw, **_use at your own risk_ **
-**You CAN and probably WILL get banned if you go AFK and get macro checked.**
-This project is in no way afilliated with Microsoft, Mojang or Hypixel.  
+I am not responsible for you getting banned for a year and getting wiped btw, **_use at your own risk_ **  
+**You CAN and probably WILL get banned if you go AFK and get macro checked.**  
+This project is in no way afilliated with Microsoft, Mojang or Hypixel.    
+ 
