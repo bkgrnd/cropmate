@@ -9,7 +9,7 @@
 
 - Variable camera yaw and pitch (if you dont have a squeaky mousemat)
 - Macros for pretty much every crop you could wish for
-- Made by a total dumbass (not really a feature but i ran out of ideas)
+- Filled with turboshit code
 
 <img width="320" height="54" alt="image" src="https://github.com/user-attachments/assets/dc958460-6e17-47ef-99ac-ac9e5344e1ce" />
 
