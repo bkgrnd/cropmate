@@ -46,7 +46,7 @@ cropmate does _**not**_ include:
 - pest macro
 - "good" code
   
-ALSO, some of the stuff here is blatantly vibecoded, i will eventually rewrite it but who gives a shit.
+ALSO, this is based off of a vibecoded macro i made like a month ago so yeah
 
 # REQUIRES [Minescript](https://minescript.net/)
 
