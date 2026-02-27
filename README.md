@@ -24,7 +24,8 @@
 
 <img width="320" height="54" alt="image" src="https://github.com/user-attachments/assets/dc958460-6e17-47ef-99ac-ac9e5344e1ce" />
 
-
+fix the stupidass stall that happens with the water bobbing glitch and make timeout before key-switch shorter  
+make the Y drop 2 blocks so its actually reliable (and wont fuck up because of the water bobbing glitch)  
 ~~rewarp stuff~~    
 ~~wart macro~~  
 ~~carrot macro~~  
