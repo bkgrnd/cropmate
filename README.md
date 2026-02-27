@@ -2,25 +2,35 @@
 
 
 
-# Very bare-bones Quality Of Life Farming mod for Hypixel Skyblock
+# Very bare-bones QOL whatchamacallit for Hypixel Skyblock
 <img width="320" height="54" alt="image" src="https://github.com/user-attachments/assets/5fcfa25c-a8f8-44ff-8bfe-b5cee7eb846a" />
 
 
 
-- Variable camera yaw and pitch (if you dont have a squeaky mousemat)
-- Macros for pretty much every crop you could wish for
-- Filled with turboshit code
+- rewarp stuff
+- macros for ALMOST all crops
+- turboshit code
+
+<img width="398" height="56" alt="image" src="https://github.com/user-attachments/assets/59c3c3f5-31f7-4b87-9bd1-4999b3422d6a" />
+
+
+| command | wat it do |
+|---|---|
+| `\cropmate 1` | Macro 1 — starts A D macro |
+| `\cropmate 2` | Macro 2 — starts D A macro |
+| `\cropmate addrewarp` | saves your position as a rewarp point |
+| `\cropmate listrewarp` | lists rewarp points |
+| `\cropmate clearrewarp` | deletes the rewarp points|
 
 <img width="320" height="54" alt="image" src="https://github.com/user-attachments/assets/dc958460-6e17-47ef-99ac-ac9e5344e1ce" />
 
 
-rewarp stuff  
-gui to select macro modes  
-wart macro  
-carrot macro  
-potato macro  
-wheat macro  
-~~rose/sunflower/cane macro~~
+~~rewarp stuff~~    
+~~wart macro~~  
+~~carrot macro~~  
+~~potato macro~~  
+~~wheat macro~~  
+rose/sunflower/cane macro  
 
 
 
@@ -32,18 +42,17 @@ wheat macro
 This thing is meant to be used while you are present at your pc, and able to see the screen JIC you get macro checked.
 
 cropmate does _**not**_ include:
-- failsafes
-- macro check responses
-- pests stuff
-- code written by someone with an actual functioning braincell
+- failsafes (yet
+- pest macro
+- "good" code
   
-ALSO, some of the stuff here is blatantly vibecoded and WILL be rewritten once i get the macro to a functional state.
+ALSO, some of the stuff here is blatantly vibecoded, i will eventually rewrite it but who gives a shit.
 
 # REQUIRES [Minescript](https://minescript.net/)
 
 
 
-I am not responsible for you getting banned for a year and getting wiped btw, **_use at your own risk_ **  
+I am not responsible for you getting banned and wiped btw, **_use at your own risk_ **  
 **You CAN and probably WILL get banned if you go AFK and get macro checked.**  
 This project is in no way afilliated with Microsoft, Mojang or Hypixel.    
  
