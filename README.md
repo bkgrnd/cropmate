@@ -42,7 +42,7 @@ rose/sunflower/cane macro
 This thing is meant to be used while you are present at your pc, and able to see the screen JIC you get macro checked.
 
 cropmate does _**not**_ include:
-- failsafes (yet
+- failsafes (yet)
 - pest macro
 - "good" code
   
